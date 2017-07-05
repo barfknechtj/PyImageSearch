@@ -3,6 +3,8 @@ import argparse
 import imutils
 import cv2
 
+# credit: Adrian Rosebrock @ pyimagesearch blog
+
 # construct the argument parse and parse the argument
 ap = argparse.ArgumentParser()
 ap.add_argument("-f", "--first", required=True,
