@@ -1,6 +1,12 @@
 # Goal
 Identify differences between two images (e.g. Original.png and Modified.png)
 
+# Dependencies
+* skimage
+* imutils
+* argsparse (STL)
+* opencv2 (not shown in pipfile as it was built from src) 
+
 # Execution
 `python3 image_diff.py --first Original.png --second Edited.png`
 
