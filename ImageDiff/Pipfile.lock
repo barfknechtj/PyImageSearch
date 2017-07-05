@@ -1,0 +1,62 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "7d6378113f2365fcf4b781674ff3026acda48e86dedb1e066c46704d44e93f4c"
+        },
+        "requires": {},
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "cycler": {
+            "version": "==0.10.0"
+        },
+        "decorator": {
+            "version": "==4.0.11"
+        },
+        "imutils": {
+            "version": "==0.4.3"
+        },
+        "matplotlib": {
+            "version": "==2.0.2"
+        },
+        "networkx": {
+            "version": "==1.11"
+        },
+        "numpy": {
+            "version": "==1.13.0"
+        },
+        "olefile": {
+            "version": "==0.44"
+        },
+        "pillow": {
+            "version": "==4.2.0"
+        },
+        "pyparsing": {
+            "version": "==2.2.0"
+        },
+        "python-dateutil": {
+            "version": "==2.6.0"
+        },
+        "pytz": {
+            "version": "==2017.2"
+        },
+        "pywavelets": {
+            "version": "==0.5.2"
+        },
+        "scikit-image": {
+            "version": "==0.13.0"
+        },
+        "scipy": {
+            "version": "==0.19.1"
+        },
+        "six": {
+            "version": "==1.10.0"
+        }
+    },
+    "develop": {}
+}
