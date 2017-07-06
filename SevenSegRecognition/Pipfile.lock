@@ -1,0 +1,26 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "b4ec330ea9abc88bcdabc23173a1d6fc204f970a10cd1d5c4dfb8b40aba7b084"
+        },
+        "requires": {},
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "imutils": {
+            "version": "==0.4.3"
+        },
+        "numpy": {
+            "version": "==1.13.0"
+        },
+        "scipy": {
+            "version": "==0.19.1"
+        }
+    },
+    "develop": {}
+}
